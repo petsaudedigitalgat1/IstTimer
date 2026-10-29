@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingStart="24dp"
+    android:paddingTop="16dp"
+    android:paddingEnd="24dp"
+    android:paddingBottom="24dp"
+    android:background="@drawable/dialog_background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_idioma"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="12dp" />
+
+    <RadioGroup
+        android:id="@+id/radio_group_languages"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginBottom="20dp">
+
+        <RadioButton
+            android:id="@+id/radio_device_default"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lang_device_default"
+            android:textColor="@color/gray_dark"
+            android:textSize="16sp"
+            android:paddingVertical="6dp" />
+
+        <RadioButton
+            android:id="@+id/radio_portuguese"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lang_portuguese"
+            android:textColor="@color/gray_dark"
+            android:textSize="16sp"
+            android:paddingVertical="6dp" />
+
+        <RadioButton
+            android:id="@+id/radio_english"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lang_english"
+            android:textColor="@color/gray_dark"
+            android:textSize="16sp"
+            android:paddingVertical="6dp" />
+
+        <RadioButton
+            android:id="@+id/radio_spanish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lang_spanish"
+            android:textColor="@color/gray_dark"
+            android:textSize="16sp"
+            android:paddingVertical="6dp" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/button_cancel_language"
+            android:layout_width="0dp"
+            android:layout_height="52dp"
+            android:layout_weight="1"
+            android:text="@string/button_cancel"
+            android:textAllCaps="true"
+            android:background="@drawable/secondary_action_button"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold"
+            android:textSize="12sp"
+            android:layout_marginEnd="12dp"
+            android:includeFontPadding="false" />
+
+        <Button
+            android:id="@+id/button_ok_language"
+            android:layout_width="0dp"
+            android:layout_height="52dp"
+            android:layout_weight="1"
+            android:text="SALVAR"
+            android:textAllCaps="true"
+            android:background="@drawable/primary_action_button"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="12sp"
+            android:includeFontPadding="false" />
+    </LinearLayout>
+
+</LinearLayout>

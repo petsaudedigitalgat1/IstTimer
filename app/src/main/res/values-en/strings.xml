@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IST Timer</string>
+    <string name="app_title">IST Timer</string>
+
+    <!-- Screens and Titles -->
+    <string name="title_main">IST Timer</string>
+    <string name="title_add_test">ENTER PATIENT INFORMATION</string>
+
+    <!-- Form Labels -->
+    <string name="label_patient_name">Patient Name</string>
+    <string name="label_test_type">Test Type</string>
+    <string name="label_test_duration">Duration</string>
+
+    <!-- Test Types -->
+    <string name="test_hiv">HIV</string>
+    <string name="test_hepatite_b">HEPATITIS B</string>
+    <string name="test_hepatite_c">HEPATITIS C</string>
+    <string name="test_sifilis">SYPHILIS</string>
+
+    <!-- Status -->
+    <string name="status_time_expired">TIME EXPIRED</string>
+    <string name="status_running">RUNNING</string>
+    <string name="status_ready">READY TO START</string>
+    <string name="status_initialize">Start</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_result">Result</string>
+
+    <!-- Buttons -->
+    <string name="button_start_test">ADD TEST</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="button_add">ADD</string>
+    <string name="button_start">Start</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_add_test">New Timer</string>
+    <string name="close_timer">Close timer</string>
+
+    <!-- Consent -->
+    <string name="consent_title">Privacy Policy</string>
+    <string name="button_open_terms">Open link</string>
+    <string name="terms_url" formatted="false">https://sites.google.com/view/temporizadorist/in%C3%ADcio</string>
+    <string name="button_decline">I do not agree</string>
+    <string name="button_accept">I agree</string>
+    <string name="consent_declined_message">You must agree to continue.</string>
+
+    <!-- Menu -->
+    <string name="menu_inicio">Home</string>
+    <string name="menu_quem_somos">About us</string>
+    <string name="menu_converse_conosco">Contact us</string>
+    <string name="menu_termo_privacidade">Privacy &amp; Security Terms</string>
+    <string name="menu_mais_informacoes">More information</string>
+    <string name="menu_idioma">Language</string>
+    <string name="lang_device_default">Device default</string>
+    <string name="lang_portuguese">Portuguese</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Spanish</string>
+    <string name="security_description">To view the full privacy and security terms of the IST Timer app, visit the link:</string>
+    <string name="security_description_with_link" formatted="false">To view the full privacy and security terms of the IST Timer app, visit the &lt;a href="https://sites.google.com/view/temporizadorist/in%C3%ADcio"&gt;&lt;b&gt;official website&lt;/b&gt;&lt;/a&gt;.</string>
+    <string name="security_link_text" formatted="false"><![CDATA[<a href="https://sites.google.com/view/temporizadorist/in%C3%ADcio">https://sites.google.com/view/temporizadorist/in%C3%ADcio</a>]]></string>
+    <string name="contact_description">For questions, feedback or bug reports, contact:</string>
+    <string name="contact_email"><b>sheila.milena@gmail.com</b></string>
+    <string name="more_info_content"><b>Funding source:</b>\nPrograma de Educação pelo Trabalho para a Saúde: Informação e Saúde Digital - SEIDIGI/SGTES-MS\n\nVersion: 1.0\nYear: 2026</string>
+    <string name="more_info_license"></string>
+    <string name="quem_somos_title">Federal University of Campina Grande</string>
+    <string name="quem_somos_content"><![CDATA[<br/>Sheila Milena Pessoa dos Santos<br/><b>Faculty of Nursing</b><br/><br/>Joseana Macêdo Fechine<br/><b>Faculty of Computer Science</b><br/><br/>Diogo Medeiros<br/><b>Student in Computer Science</b><br/><br/>Paraíba - Brazil]]></string>
+</resources>

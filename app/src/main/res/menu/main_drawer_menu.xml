@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:title="@string/menu_inicio" />
+        <item
+            android:id="@+id/nav_quem_somos"
+            android:title="@string/menu_quem_somos" />
+        <item
+            android:id="@+id/nav_converse_conosco"
+            android:title="@string/menu_converse_conosco" />
+        <item
+            android:id="@+id/nav_termo_privacidade"
+            android:title="@string/menu_termo_privacidade" />
+        <item
+            android:id="@+id/nav_idioma"
+            android:title="@string/menu_idioma" />
+        <item
+            android:id="@+id/nav_mais_informacoes"
+            android:title="@string/menu_mais_informacoes" />
+    </group>
+</menu>

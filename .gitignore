@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+
+# Configuração local (caminho do SDK)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Saídas de build geradas pelo Android Studio
+app/release/
+app/debug/
+*.apk
+*.aab
+
+# Chaves de assinatura de release (nunca versionar)
+app/release.keystore
+*.jks
+
+# Ferramentas locais
+.github/modernize/
+
+# Sistema
+.DS_Store
+Thumbs.db

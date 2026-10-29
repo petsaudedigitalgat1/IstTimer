@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temporizador IST</string>
+    <string name="app_title">Temporizador IST</string>
+
+    <string name="title_main">Temporizador IST</string>
+    <string name="title_add_test">INGRESE LA INFORMACIÓN DEL PACIENTE</string>
+
+    <string name="label_patient_name">Nombre del paciente</string>
+    <string name="label_test_type">Tipo de prueba</string>
+    <string name="label_test_duration">Duración</string>
+
+    <string name="test_hiv">HIV</string>
+    <string name="test_hepatite_b">HEPATITIS B</string>
+    <string name="test_hepatite_c">HEPATITIS C</string>
+    <string name="test_sifilis">SÍFILIS</string>
+
+    <string name="status_time_expired">TIEMPO AGOTADO</string>
+    <string name="status_running">EN EJECUCIÓN</string>
+    <string name="status_ready">LISTO PARA INICIAR</string>
+    <string name="status_initialize">Iniciar</string>
+    <string name="status_paused">Pausado</string>
+    <string name="status_result">Resultado</string>
+
+    <string name="button_start_test">AÑADIR PRUEBA</string>
+    <string name="button_cancel">CANCELAR</string>
+    <string name="button_add">AÑADIR</string>
+    <string name="button_start">Iniciar</string>
+    <string name="button_pause">Pausar</string>
+    <string name="button_reset">Restablecer</string>
+    <string name="button_delete">Eliminar</string>
+    <string name="button_add_test">Nuevo Temporizador</string>
+    <string name="close_timer">Cerrar temporizador</string>
+
+    <string name="consent_title">Política de privacidad</string>
+    <string name="button_open_terms">Abrir enlace</string>
+    <string name="terms_url" formatted="false">https://sites.google.com/view/temporizadorist/in%C3%ADcio</string>
+    <string name="button_decline">No estoy de acuerdo</string>
+    <string name="button_accept">Estoy de acuerdo</string>
+    <string name="consent_declined_message">Debe aceptar para continuar.</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_quem_somos">Quiénes somos</string>
+    <string name="menu_converse_conosco">Contáctenos</string>
+    <string name="menu_termo_privacidade">Términos de seguridad y privacidad</string>
+    <string name="menu_mais_informacoes">Más información</string>
+    <string name="menu_idioma">Idioma</string>
+    <string name="lang_device_default">Predeterminado del dispositivo</string>
+    <string name="lang_portuguese">Portugués</string>
+    <string name="lang_english">Inglés</string>
+    <string name="lang_spanish">Español</string>
+    <string name="security_description">Para acceder a los términos completos de privacidad y seguridad de la aplicación IST Timer, visite el enlace:</string>
+    <string name="security_description_with_link" formatted="false">Para acceder a los términos completos de privacidad y seguridad de la aplicación IST Timer, visite el &lt;a href="https://sites.google.com/view/temporizadorist/in%C3%ADcio"&gt;&lt;b&gt;sitio oficial&lt;/b&gt;&lt;/a&gt;.</string>
+    <string name="security_link_text" formatted="false"><![CDATA[<a href="https://sites.google.com/view/temporizadorist/in%C3%ADcio">https://sites.google.com/view/temporizadorist/in%C3%ADcio</a>]]></string>
+    <string name="contact_description">Para preguntas, comentarios o informes de errores, contacte:</string>
+    <string name="contact_email"><b>sheila.milena@gmail.com</b></string>
+    <string name="more_info_content"><b>Fuente de financiamiento:</b>\nPrograma de Educación para el Trabajo en Salud: Información y Salud Digital - SEIDIGI/SGTES-MS\n\nVersión: 1.0\nAño: 2026</string>
+    <string name="more_info_license"></string>
+    <string name="quem_somos_title">Universidad Federal de Campina Grande</string>
+    <string name="quem_somos_content"><![CDATA[<br/>Sheila Milena Pessoa dos Santos<br/><b>Docente en Enfermería</b><br/><br/>Joseana Macêdo Fechine<br/><b>Docente en Ciencias de la Computación</b><br/><br/>Diogo Medeiros<br/><b>Estudiante de Ciencias de la Computación</b><br/><br/>Paraíba - Brasil]]></string>
+</resources>

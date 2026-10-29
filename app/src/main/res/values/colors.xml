@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores Primárias -->
+    <color name="colorPrimary">#001833</color>
+    <color name="colorPrimaryDark">#001022</color>
+    <color name="colorAccent">#4CAF50</color>
+
+    <!-- Cores dos testes (ajustadas conforme pedido) -->
+    <color name="testHiv">#2EC7F2</color>
+    <color name="testSifilis">#E64AA8</color>
+    <color name="testHepatiteB">#7A4CC3</color>
+    <color name="testHepatiteC">#0052CC</color>
+    
+    <!-- Cores de Status -->
+    <color name="colorTimerExpired">#E63946</color>
+    <color name="colorTimerActive">#2E7D8E</color>
+    <color name="colorTimerReady">#4CAF50</color>
+    <color name="colorStatusInitialize">#5A9DBB</color>
+    <color name="colorStatusPaused">#FF6B6B</color>
+    <color name="colorStatusResult">#7C8C8E</color>
+    
+    <!-- Cores Neutras -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_medium">#999999</color>
+    <color name="gray_dark">#666666</color>
+    
+    <!-- Botões -->
+    <color name="buttonGreen">#1E88E5</color>
+    <color name="buttonGray">#CCCCCC</color>
+</resources>
